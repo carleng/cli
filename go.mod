@@ -9,7 +9,7 @@ require (
 	github.com/charmbracelet/glamour v0.4.0
 	github.com/cli/browser v1.1.0
 	github.com/cli/oauth v0.9.0
-	github.com/cli/safeexec v1.0.0
+	github.com/cli/safeexec v1.0.1
 	github.com/cli/shurcooL-graphql v0.0.1
 	github.com/cpuguy83/go-md2man/v2 v2.0.1
 	github.com/creack/pty v1.1.17
